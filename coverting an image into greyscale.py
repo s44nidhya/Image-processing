@@ -1,6 +1,6 @@
 import cv2 as cv;
 #importing the image
-img = cv.imread(r"C:\Users\GAMING-3\Documents\meet_my_electronic_pet_goofy.jpg")
+img = cv.imread(r"C:\Users\s44nidhya\Docs\meet_my_electronic_pet_goofy.jpg")
 
 cv.waitKey(0)
 #code for the convertion of BGR image into greyscale
