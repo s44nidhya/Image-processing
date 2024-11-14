@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-img = cv2.imread(r"C:\Users\GAMING-3\Documents\meet_my_electronic_pet_goofy.jpg",0)
+img = cv2.imread(r"C:\Users\s44nidhya\Docs\meet_my_electronic_pet_goofy.jpg",0)
 
 rows, cols = img.shape
 
