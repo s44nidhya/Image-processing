@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 
-img = cv2.imread(r"C:\Users\GAMING-3\Documents\meet_my_electronic_pet_goofy.jpg")
+img = cv2.imread(r"C:\Users\s44nidhya\Docs\meet_my_electronic_pet_goofy.jpg")
 rows,cols,ch = img.shape
 
 pts1 =np.float32([[50,50], [200,50],[50,200]])
